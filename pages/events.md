@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
-category: documentation
-permalink: /documentation
+title: Events
+category: events
+permalink: /events
 ---
