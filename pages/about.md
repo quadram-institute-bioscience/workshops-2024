@@ -21,7 +21,7 @@ This websites collects and share information about the training activities organ
 #### Metagenomics
 
 * [MetaPhlAn and HuMANN](/workshops/metaphlan-humann) with the authors
-* [Anvi'o Workshop]({% _link _posts/2023-06-01-anvio.md %}) with the authors
+* [Anvi'o Workshop]({{ site.baseurl }}{% post_url /2023-06-01-anvio.md %}) with the authors
 
 #### Data Analysis
 
