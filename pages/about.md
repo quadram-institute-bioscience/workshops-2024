@@ -15,17 +15,14 @@ This websites collects and share information about the training activities organ
 | May        | MetaPhlAn and HuMANN       | Come back for more details...          |
 | June       | Anvi'o Workshop            | Come back for more details...          |
 
+## Topics
 
-## Events planned
+### Metagenomics
 
-#### Metagenomics
-
-* [MetaPhlAn and HuMANN](/workshops/metaphlan-humann) with the authors
-* [Anvi'o Workshop]({{ site.baseurl }}{% link _posts/2023-06-01-anvio.md %}) with the authors
+* [MetaPhlAn and HuMANN]({{ site.baseurl }}{% post_url 2023-05-01-biobakery %}) with the authors
 * [Anvi'o Workshop]({{ site.baseurl }}{% post_url 2023-06-01-anvio %}) with the authors
 
-#### Data Analysis
+### Data Analysis
 
 * [Data Science](/workshops/data-science)
 * [Machine Learning](/workshops/machine-learning)
-
