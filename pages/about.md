@@ -12,10 +12,11 @@ This websites collects and share information about the training activities organ
 
 | Date       | Workshop                   | Info                           |
 |------------|----------------------------|--------------------------------|
-| March      | Machine Learning           | Come back for more details...  |
+| 5 March      | [Machine Learning]({% post_url 2023-03-01-machine-learning.md %}): Seminar          | [Intranet](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?mid=0) |
+| 7 March      | [Machine Learning]({% post_url 2023-03-01-machine-learning.md %}): Workshop          | [Registration (intranet)](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?mid=0)  |
 | April      | Data Science               | Come back for more details...  |
 | May        | MetaPhlAn and HuMANN       | Come back for more details...  |
-| June       | Anvi'o Workshop            | Come back for more details...  |
+| June (1st week)       | Anvi'o Workshop            | Come back for more details...  |
 
 ## Topics
 
