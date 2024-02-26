@@ -12,8 +12,12 @@ image: ml.jpg
 ## What
 
 An introductory **seminar**, with a focus on the methodologies and a practical workshop by
-[**Dr Giovanni Birolo**](https://scholar.google.com/citations?user=kq8AdTAAAAAJ&hl=en&oi=ao),
-a mathematician turned computational biologist with experience in human and crop genetics and genomics, and now working on AI and ML approaches to predict outcomes from various biological datasets.
+[**Dr Giovanni Birolo**](https://scholar.google.com/citations?user=kq8AdTAAAAAJ&hl=en&oi=ao).
+
+Giovanni Birolo is a staff scientist at the Medical Science Department of the University of Turin.
+Originally trained as a mathematician at the University of Padua, he earned his Ph.D. in mathematical logic before making a not completely deliberate transition to bioinformatics and genomics.
+During his postdoctoral life, he delved into population genomics, biostatistics, and biomedical data analysis. 
+In the last years he focused on **machine learning and prediction in medicine**.
 
 ## When
 
