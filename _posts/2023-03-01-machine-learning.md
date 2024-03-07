@@ -35,3 +35,8 @@ An overview of what happens in genetic studies applying repectively: unsupervise
 * 7 March 2024, UGUG55B at 14.30 ([**registration link**](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66032))
   
 We will use a microbiome dataset to see how to import in python observations (microbiome compositions) and metadata, how to plot a PCA, perform a statistical test to identify interesting taxa, and using a machine learning approach, the Random Forest (already introduced at the Data Science group), to classify our samples.
+
+## Repository
+
+* This is a special session of the [QIB Data Science Group](https://github.com/quadram-institute-bioscience/datasciencegroup)
+* The code is available in a [Python notebook](https://gist.github.com/telatin/87477ec635b79ed5ecafc585a330c1c3)
