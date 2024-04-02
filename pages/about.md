@@ -10,13 +10,15 @@ This websites collects and share information about the training activities organ
 
 ## Calendar
 
-| Date       | Workshop                   | Info                           |
-|------------|----------------------------|--------------------------------|
-| 5 March      | [Machine Learning]({{ site.baseurl }}{% post_url 2023-03-01-machine-learning %}): Seminar          | [Intranet](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?mid=0) |
-| 7 March      | [Machine Learning]({{ site.baseurl }}{% post_url 2023-03-01-machine-learning %}): Workshop          | [Registration (intranet)](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?mid=0)  |
-| April      | Data Science               | Come back for more details...  |
-| May        | MetaPhlAn and HuMANN       | Come back for more details...  |
-| June (1st week)       | Anvi'o Workshop            | Come back for more details...  |
+| Date            | Workshop                                                                                   | Info                                                                                              |
+|-----------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| 5 March         | [Machine Learning]({{ site.baseurl }}{% post_url 2023-03-01-machine-learning %}): Seminar  | [Intranet](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?mid=0)                |
+| 7 March         | [Machine Learning]({{ site.baseurl }}{% post_url 2023-03-01-machine-learning %}): Workshop | [Intranet](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?mid=0) |
+| 18-20 March     | [nf-core hackathon]({{ site.baseurl }}{% post_url 2023-03-01-nf-core %})                   | [nf-co.re](https://nf-co.re/events/2024/hackathon-march-2024/uk-norwich)                                                                     |
+| 26 March        | [Data Science]({{ site.baseurl }}{% post_url 2023-04-01-data-science %})                   | [Intranet](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66081)                                                                    |
+| April           | Data Science                                                                               | Come back for more details...                                                                     |
+| May             | MetaPhlAn and HuMANN                                                                       | Come back for more details...                                                                     |
+| June (1st week) | Anvi'o Workshop                                                                            | Come back for more details...                                                                     |
 
 ## Topics
 
