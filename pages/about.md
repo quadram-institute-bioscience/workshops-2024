@@ -17,8 +17,8 @@ This websites collects and share information about the training activities organ
 | 18-20 March     | [nf-core hackathon]({{ site.baseurl }}{% post_url 2023-01-02-nf-core %})                   | [nf-co.re](https://nf-co.re/events/2024/hackathon-march-2024/uk-norwich)                                                                     |
 | 26 March        | [Microbiome]({{ site.baseurl }}{% post_url 2023-01-04-data-science %})                   | [Intranet](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66081)                                                                    |
 | 21-24 May       | [Large Scale Analysis of Microbial genomes]({{ site.baseurl }}{% post_url 2023-01-10-large-scale %})                                                                           | Come back for more details...                                                                     |
-| May             | MetaPhlAn and HuMANN                                                                       | Come back for more details...                                                                     |
-| June (1st week) | Anvi'o Workshop                                                                            | Come back for more details...                                                                     |
+| May             | [MetaPhlAn]({{ site.baseurl }}{% post_url 2023-05-01-biobakery %})                                                                    | Come back for more details...                                                                     |
+| June (1st week) | [Anvi'o Workshop]({{ site.baseurl }}{% post_url 2023-06-01-anvio %})                                                                            | Come back for more details...                                                                     |
 
 ## Topics
 
@@ -30,8 +30,8 @@ This websites collects and share information about the training activities organ
 ### Data Analysis
 
 * Data Science
-* March 2024, [Machine Learning]({{ site.baseurl }}{% post_url 2023-03-01-machine-learning %})
+* March 2024, [Machine Learning]({{ site.baseurl }}{% post_url 2023-01-01-machine-learning %})
 
 ## Bioinformatics
 
-* 18-20 March 2024, [nf-core hackathon]({{ site.baseurl }}{% post_url 2023-03-01-nf-core %})
+* 18-20 March 2024, [nf-core hackathon]({{ site.baseurl }}{% post_url 2023-01-02-nf-core %})
