@@ -6,7 +6,7 @@ permalink: /about
 
 [![pages-build-deployment](https://github.com/quadram-institute-bioscience/workshops-2024/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/quadram-institute-bioscience/workshops-2024/actions/workflows/pages/pages-build-deployment)
 
-This websites collects and share information about the training activities organised by Core Bioinformatics at [QIB](https://www.quadram.ac.uk) in 2024.
+This website collects and share information about the training and workshop activities organised by Core Bioinformatics at [QIB](https://www.quadram.ac.uk) in 2024.
 
 ## Calendar
 
@@ -17,7 +17,7 @@ This websites collects and share information about the training activities organ
 | 18-20 March     | [nf-core hackathon]({{ site.baseurl }}{% post_url 2023-01-02-nf-core %})                   | [nf-co.re](https://nf-co.re/events/2024/hackathon-march-2024/uk-norwich)                                                                     |
 | 26 March        | [Statistical Analysis of the Microbiome]({{ site.baseurl }}{% post_url 2023-01-04-data-science %})                   | [Intranet](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66081)                                                                    |
 | 8 May           | [Protein bioinformatics and AI]({{ site.baseurl }}{% post_url 2023-01-20-proteins %})              | TBC                                                                   |
-| 21-24 May       | [Large Scale Analysis of Microbial genomes]({{ site.baseurl }}{% post_url 2023-01-10-large-scale %})                                                                           | Come back for more details...                                                                     |
+| 20-24 May       | [Large Scale Analysis of Microbial genomes]({{ site.baseurl }}{% post_url 2023-01-10-large-scale %})                                                                           | Come back for more details...                                                                     |
 | May             | [MetaPhlAn]({{ site.baseurl }}{% post_url 2023-05-01-biobakery %})                                                                    | Come back for more details...                                                                     |
 | June (1st week) | [Anvi'o Workshop]({{ site.baseurl }}{% post_url 2023-06-01-anvio %})                                                                            | Come back for more details...                                                                     |
 
@@ -36,3 +36,7 @@ This websites collects and share information about the training activities organ
 ## Bioinformatics
 
 * 18-20 March 2024, [nf-core hackathon]({{ site.baseurl }}{% post_url 2023-01-02-nf-core %})
+
+## (Phylo)genomics
+
+* 20-24 May 2024, [Large Scale Analysis of Microbial genomes]({{ site.baseurl }}{% post_url 2023-01-10-large-scale %})
