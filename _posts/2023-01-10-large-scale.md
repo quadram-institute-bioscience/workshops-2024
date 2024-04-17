@@ -32,8 +32,10 @@ The SIB members visiting us are [Natasha Glover](https://scholar.google.com/cita
 
 ## When 
 Both groups will be in the Institute between the 20th to the 24th of May, and there will be a workshop on the morning of the
-21st (Tuesday) and the afternoon of the 22nd (Wednesday). 
-Tuesday's section theme will be provisionally "Comparative Genomics of the Tree of Life", and Wednesday will be "Petascale Structure Prediction". Check this space for updates.
+21st (Tuesday) and on the afternoon of the 22nd (Wednesday). 
+Tuesday's section theme will be "Comparative Genomics of the Tree of Life", and on Wednesday we'll have a "Petascale Structure Prediction and Phylogenetics" session, 
+with a panel discussion led by our own [Dipali Singh](https://quadram.ac.uk/people/dipali-singh/). 
+Check this space for updates.
 
 ## References 
 A small list of recent selected publications from the groups involved in the workshop (with guests highlighted in bold):
