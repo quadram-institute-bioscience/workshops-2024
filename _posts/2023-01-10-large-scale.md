@@ -12,7 +12,7 @@ This workshop will discuss state-of-the-art methods in the large-scale analysis 
 We will discuss the latest advances in the field, including the use of artificial intelligence to improve the accuracy and scalability of these methods.
 
 ## Who
-The two international groups invited for this workshop are [Christophe Dessimoz]((https://orcid.org/0000-0002-2170-853X)) & [Natasha Glover](https://orcid.org/0000-0003-1811-4340) 
+The two international groups invited for this workshop are [Christophe Dessimoz](https://orcid.org/0000-0002-2170-853X) & [Natasha Glover](https://orcid.org/0000-0003-1811-4340) 
 from the University of Lausanne and Swiss Institute of Bioinformatics (SIB), and [Martin Steinegger](https://orcid.org/0000-0001-8781-9753) from Seoul National University. 
 Both teams have collaborative work in the application of artificial intelligence to advance structural phylogenetics. 
 
