@@ -26,9 +26,9 @@ The SIB members visiting us are [Natasha Glover](https://scholar.google.com/cita
 (Associate Director, Comparative Genomics Group, Swiss Institute Bioinformatics & University of Lausanne), 
 [Stefano Pascarelli](https://scholar.google.com/citations?hl=en&user=UU4EztcAAAAJ) (Postdoctoral researcher), 
 [Irene Julca](https://scholar.google.com/citations?hl=en&user=ruCrGm0AAAAJ) (Senior postdoctoral researcher),
-[David Moi](https://scholar.google.com/citations?hl=en&user=XgOh39oAAAAJ) (Senior postdoctoral researcher), and 
-[Mauricio Langleib](https://scholar.google.com/citations?hl=en&user=v0M39e0AAAAJ) (PhD student).
-
+[David Moi](https://scholar.google.com/citations?hl=en&user=XgOh39oAAAAJ) (Senior postdoctoral researcher), 
+[Alex Warwick Vesztrocy](https://scholar.google.co.uk/citations?user=22MWmmgAAAAJ&hl=en) (Postdoctoral researcher),
+and [Mauricio Langleib](https://scholar.google.com/citations?hl=en&user=v0M39e0AAAAJ) (PhD student).
 
 ## When 
 Both groups will be in the Institute between the 20th to the 24th of May, and there will be a workshop on the morning of the
