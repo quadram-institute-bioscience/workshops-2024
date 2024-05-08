@@ -35,6 +35,14 @@ Both groups will be in the Institute between the 20th to the 24th of May, and th
 21st (Tuesday) and on the afternoon of the 22nd (Wednesday). 
 Tuesday's section theme will be "Comparative Genomics of the Tree of Life", and on Wednesday we'll have a "Petascale Structure Prediction and Phylogenetics" session, 
 with a panel discussion led by our own [Dipali Singh](https://quadram.ac.uk/people/dipali-singh/). 
+On Tuesday afternoon we will have the guests in our Data Science at QIB group meeting, where we will have an open discussion on topics brought up by the members of the group.
+
+The NBI Calendar Events (no registration needed, but you can import the invites to Outlook) can be seen at:
+
+* [Workshop Tuesday morning](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66310)
+* [DS meeting Tuesday afternoon](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66313)
+* [Workshop Wednesday afternoon](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66311)
+
 Check this space for updates.
 
 ## References 
