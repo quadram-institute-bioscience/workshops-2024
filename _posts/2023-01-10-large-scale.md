@@ -43,7 +43,7 @@ The NBI Calendar Events (no registration needed, but you can import the invites 
 * [DS meeting Tuesday afternoon](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66313)
 * [Workshop Wednesday afternoon](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66311)
 
-Check this space for updates.
+Contact Leo if you would like to talk to the guests during their visit.
 
 ## References 
 A small list of recent selected publications from the groups involved in the workshop (with guests highlighted in bold):
