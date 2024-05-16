@@ -37,13 +37,17 @@ Tuesday's section theme will be "Comparative Genomics of the Tree of Life", and 
 with a panel discussion led by our own [Dipali Singh](https://quadram.ac.uk/people/dipali-singh/). 
 On Tuesday afternoon we will have the guests in our Data Science at QIB group meeting, where we will have an open discussion on topics brought up by the members of the group.
 
-The NBI Calendar Events (no registration needed, but you can import the invites to Outlook) can be seen at:
+The list of NBI Calendar Events (no registration needed, but you can import the invites to Outlook) can be seen at:
 
-* [Workshop Tuesday morning](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66310)
-* [DS meeting Tuesday afternoon](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66313)
-* [Workshop Wednesday afternoon](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66311)
+Event | When | Where 
+------|------|-------
+[Workshop: Comparative Genomics of the Tree of Life](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66310)         | 21st May,  9:30-12:00 | UG55 ABC
+[QIB Data Science group meeting](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66313)                             | 21st May, 14:00-16:30 | UG55 AB
+[Workshop: Petascale Structure Prediction and Phylogenetics](https://intranet.nbi.ac.uk/infoserv/cgi-bin/calendar/default.asp?id=66311) | 22nd May, 14:00-17:00 | UG55 ABC
 
-Contact Leo if you would like to talk to the guests during their visit.
+Please contact Leo if you would like to talk to the guests during their visit. 
+They will be available for meetings on Monday (20th) and Thursday (23rd).
+
 
 ## References 
 A small list of recent selected publications from the groups involved in the workshop (with guests highlighted in bold):
